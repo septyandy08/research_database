@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kecamatan Palaran dan Sambutan</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid">
+        <h1 class="mb-2">
+            Peta Data Uji Sifat Fisik Tanah dan Uji Direct Shear Kecamatan Palaran
+            dan Sambutan Kota Samarinda
+        </h1>
+
+        <!-- Form filter -->
+        <form action="/" method="GET" class="row g-3 mb-4">
+            <div class="col-md-2">
+                <label for="kecamatan" class="form-label">Kecamatan</label>
+                <input
+                    type="text"
+                    id="kecamatan"
+                    name="kecamatan"
+                    class="form-control"
+                    placeholder="Semua"
+                    value="{{ kecamatan or '' }}"
+                >
+            </div>
+
+            <div class="col-md-2">
+                <label for="kelurahan" class="form-label">Kelurahan</label>
+                <input
+                    type="text"
+                    id="kelurahan"
+                    name="kelurahan"
+                    class="form-control"
+                    placeholder="Semua"
+                    value="{{ kelurahan or '' }}"
+                >
+            </div>
+
+            <div class="col-md-3">
+                <label for="stasiun" class="form-label">Stasiun Pengamatan</label>
+                <input
+                    type="text"
+                    id="stasiun"
+                    name="stasiun"
+                    class="form-control"
+                    placeholder="Semua"
+                    value="{{ stasiun or '' }}"
+                >
+            </div>
+
+            <div class="col-md-2">
+                <label for="fk_min" class="form-label">Nilai Faktor Keamanan (≥)</label>
+                <input
+                    type="number"
+                    step="0.01"
+                    id="fk_min"
+                    name="fk_min"
+                    class="form-control"
+                    placeholder="Semua"
+                    value="{{ fk_min or '' }}"
+                >
+            </div>
+
+            <div class="col-md-2">
+                <label for="phi_min" class="form-label">Sudut Geser Dalam φ (≥)</label>
+                <input
+                    type="number"
+                    step="0.1"
+                    id="phi_min"
+                    name="phi_min"
+                    class="form-control"
+                    placeholder="Semua"
+                    value="{{ phi_min or '' }}"
+                >
+            </div>
+
+            <div class="col-md-1 d-flex align-items-end">
+                <button type="submit" class="btn btn-primary w-100">
+                    Filter
+                </button>
+            </div>
+        </form>
+    </div>
+
+    <div class="card m-3">
+        <div class="card-body">
+            {{ map_html | safe }}
+        </div>
+    </div>
+</body>
+</html>

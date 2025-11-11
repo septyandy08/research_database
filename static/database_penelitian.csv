@@ -1,0 +1,31 @@
+﻿Nama_STA,Kecamatan,Kelurahan,Kadar_Air_(%),Berat_Jenis_(g/cm3),Batas_Cair_(%),Batas_Plastis_(%),Batas_Susut (%),Plastic_Indeks_(PI),Bobot_Isi_(Kn/m3),Kohesi_(Kpa),Sudut_Geser_Dalam,Nilai_Faktor_Keamanan_(FK),Sudut,lat,lon,Foto_Singkapan
+STA 1,Palaran,Bantuas,19.05,2.61,38.55,18.39,16.71,20.16,21.02,1.29,34.38,1.228,38,-0.65802,117.186936,https://drive.google.com/uc?export=view&id=1v_fgYveMrH6Pp_-1xYIADaLuP4xsV8mE
+STA 2,Palaran,Bukuan,19.35,2.59,31.88,19.91,20.31,11.97,17.52,0.13,40.54,1.103,40,-0.59059,117.191481,https://drive.google.com/uc?export=view&id=1mta-9y_aD-5zSn9osvMbIJklLRTQ4QkT
+STA 3,Palaran,Rawa Makmur,30.22,2.86,50.7,22.29,42.17,28.41,18.65,0.16,25.01,0.892,30,-0.59717,117.193279,https://drive.google.com/uc?export=view&id=1rsn-KUrSbZMuBEdEO0kMvpWgpdJbY3Xx
+STA 4,Palaran,Rawa Makmur,26.36,2.57,46.28,25.41,10.78,20.86,16.93,0.31,31.88,0.836,40,-0.5757,117.188263,https://drive.google.com/uc?export=view&id=1Xx8MbytrgZnDkKJaYwnQqU6Z-0Ou77ss
+STA 5,Palaran,Rawa Makmur,19.06,2.39,19.63,14.76,11.16,4.87,16.91,0.23,25.01,0.559,44,-0.57852,117.183366,https://drive.google.com/uc?export=view&id=1hBgZTZ_PfxgJUE4Z4kr9_ySjoHUQf9j2
+STA 6,Palaran,Rawa Makmur,22.85,2.58,50.39,23.68,12.68,26.71,20.37,0.37,20.47,0.607,36,-0.57183,117.173866,https://drive.google.com/uc?export=view&id=1AdM22ZmWRgfTqcddQcS8LCJudDV83fNy
+STA 7,Palaran,Simpang Pasir,7.33,2.29,Non-Plastis,Non-Plastis,Non-Plastis,Non-Plastis,15.11,0.09,27.86,0.826,34,-0.58336,117.140776,https://drive.google.com/uc?export=view&id=1SaBTW_BrvBoW8_OSGI-ZQVeiCdAT4ueY
+STA 8,Palaran,Simpang Pasir,32.39,2.57,29.79,19.06,30.15,10.73,19.4,0.68,14.81,0.425,38,-0.58624,117.116375,https://drive.google.com/uc?export=view&id=1VeIcClhXMrfhlwjm-W9DV8pfNgYe6pLp
+STA 9,Palaran,Simpang Pasir,26.98,2.59,50.44,14.66,38.22,24.74,19,0.65,22.01,0.87,30,-0.58588,117.117472,https://drive.google.com/uc?export=view&id=1XnREQYS58Qv_9RTzyVM5fo2SaKfo4cag
+STA 10,Palaran,Simpang Pasir,26.33,2.61,44.84,22.05,14.58,22.79,18.92,0.48,39.49,1.086,40,-0.54649,117.151209,https://drive.google.com/uc?export=view&id=1GBv8gk8iDnP3U-go4QmtE0TXlOH4dFWj
+STA 11,Palaran,Rawa Makmur,21.4,2.6,33.6,20.87,12.9,12.73,17.79,0.21,33.77,1.255,30,-0.57309,117.192317,https://drive.google.com/uc?export=view&id=1LKpNgEtn48N_lFmFEAaT1hyZqf38jbVa
+STA 12,Palaran,Rawa Makmur,26.22,2.65,48.36,25.84,21.54,22.51,20.43,1.08,29.91,1.071,35,-0.57913,117.190969,https://drive.google.com/uc?export=view&id=1X0HJMEZCkF4WiFQB2un6IULHeB9k56Qt
+STA 13,Palaran,Bukuan,20.51,2.63,36.3,20.01,18.71,16.28,19.5,0.44,34.98,1.537,28,-0.59865,117.202311,https://drive.google.com/uc?export=view&id=10UcXFjxEdYcQpupLsIa_29nzD5hfGvgI
+STA 14,Palaran,Bukuan,22.42,2.64,26.3,16.12,29.55,10.18,19.47,1.09,31.88,1.021,38,-0.59059,117.205295,https://drive.google.com/uc?export=view&id=1zj37Jus0SBcOm7b3tqpLZu7Xq87hLKgy
+STA 15,Palaran,Bukuan,20.43,2.62,36.98,23.06,15.06,13.92,19.24,0.84,41.05,1.09,44,-0.6027,117.205017,https://drive.google.com/uc?export=view&id=1kVco5A4seEBF1UOj8Eb6Q3N2_yPlKze-
+STA 16,Sambutan,Pulau Atas,16.56,2.61,21.5,16.99,13.29,4.51,1.99,0.02,40.02,1.633,29,-0.52693,117.21912,https://drive.google.com/uc?export=view&id=1iC4MbEKU85a1dRx8XgNLhBQnmsryzgco
+STA 17,Sambutan,Pulau Atas,21.21,2.58,39,23.76,16.51,15.24,1.95,0.56,43.01,2.411,33,-0.52824,117.2171,https://drive.google.com/uc?export=view&id=1HgqGqBHpDILYrUHhIDd01EssUsqHT3YP
+STA 18,Sambutan,Sambutan,24.17,2.66,43,25.56,11.57,17.44,1.91,0.57,32.52,2.141,27,-0.51397,117.186061,https://drive.google.com/uc?export=view&id=1gDDWo-MH_Nrx0AX_0zZljoDm6mdEDa3q
+STA 19,Sambutan,Sambutan,23.79,2.57,31.25,23.41,11.07,7.84,2.02,0.28,38.96,0.78,55,-0.52761,117.196895,https://drive.google.com/uc?export=view&id=1fVL56IFwVsKYerGRScc3BcDs4llE8d45
+STA 20,Sambutan,Pulau Atas,26.64,2.59,35.75,24.86,12.56,10.89,1.89,0.6,13.97,0.515,59,-0.54052,117.193058,https://drive.google.com/uc?export=view&id=1Hr5Xj2YSMTxGJANon_w3z25kzGnpXU4q
+STA 21,Sambutan,Sungai Kapih,25.02,2.63,33.5,21.46,14.37,12.04,1.94,0.39,42.05,1.522,39,-0.54556,117.185916,https://drive.google.com/uc?export=view&id=1SVvoSwihMJ1BgA4gB1cSkZ0QgTcCcOjc
+STA 22,Sambutan,Sambutan,21.65,2.62,37.5,23.48,19.17,14.02,2.05,0.26,33.15,1.972,25,-0.49289,117.173405,https://drive.google.com/uc?export=view&id=14SwkC9K3Kx-97Gt3_GKjfURCI-66eLti
+STA 23,Sambutan,Sambutan,37.95,2.46,54,30.14,22.13,23.86,1.88,0.17,40.02,1.471,37,-0.49429,117.177073,https://drive.google.com/uc?export=view&id=1Q3DcSqrRc9BTmk67RCEpoTVpiCh8V-Ps
+STA 24,Sambutan,Sambutan,41.09,2.49,44,27.32,30.57,16.68,1.72,0.24,22.01,1.051,31,-0.49636,117.177381,https://drive.google.com/uc?export=view&id=1s2ck_J-OAtOowBVFiAz3WK7Q8sjP4kCz
+STA 25,Sambutan,Sambutan,18.57,2.56,25.75,18.54,22.01,7.21,2.01,0.01,57.93,2.424,34,-0.49652,117.178789,https://drive.google.com/uc?export=view&id=1aCUDTlNjbEOL4QLvw19BkSa1Webb3gwR
+STA 26,Sambutan,Sambutan,20.29,2.54,31,22.63,17.29,8.37,2.03,0.45,7.96,0.961,26,-0.50262,117.180057,https://drive.google.com/uc?export=view&id=1_kbS8ANu1nlE67BYXkhXWOtxLBlwAs4f
+STA 27,Sambutan,Sungai Kapih,24.74,2.57,58.5,31.82,11.2,26.68,1.6,0.02,48.23,0.189,45,-0.52724,117.170493,https://drive.google.com/uc?export=view&id=1dJQ6XJVbAJ9tXi7ZQ7NALxMtGzgt7Q-M
+STA 28,Sambutan,Sungai Kapih,44.53,2.38,32.75,28.68,24.32,4.07,1.94,0.44,24.27,1.435,36,-0.52834,117.170133,https://drive.google.com/uc?export=view&id=18Nd0ACcXDyrFRn_iq6D96W3VgONM3hkT
+STA 29,Sambutan,Sambutan,23.25,2.65,47.5,27.06,9.48,20.44,1.93,0.01,60.78,2.187,40,-0.49785,117.19881,https://drive.google.com/uc?export=view&id=1P-uAt7eeD84OEK7GbcAqMMgbupc8WVY6
+STA 30,Sambutan,Sambutan,10.21,2.57,Non-Plastis,Non-Plastis,Non-Plastis,Non-Plastis,1.65,0.02,26.45,0.514,47,-0.49978,117.193808,https://drive.google.com/uc?export=view&id=1mMr6pqCBpPnJPt5is2bOTCMOh2pvnj8_
